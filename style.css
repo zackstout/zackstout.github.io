@@ -42,10 +42,10 @@ div.list{font-family:Garamond, Baskerville, "Times New Roman";
   left:200px;
 } 
 
-div.thingtime{font-family:Garamond, Baskerville, "Times New Roman";
+.thingtime{font-family:Garamond, Baskerville, "Times New Roman";
   font-size:22px;
 }
-div.tt{
+.tt{
   padding-left:50pt;
   padding-right:50pt;
 }
