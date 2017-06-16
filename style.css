@@ -4,11 +4,11 @@ p{
   font-family:Garamond, Baskerville, "Times New Roman";
 }
 
-h1{font-size:34px;
+h1{font-size:32px;
   font-family:Garamond, Baskerville, "Times New Roman";
 }
 
-h2{font-size:28px;
+h2{font-size:24px;
   font-family:Garamond, Baskerville, "Times New Roman";
 }
 
@@ -19,7 +19,12 @@ div.place{
 
 div.top{
   font-family:Garamond, Baskerville, "Times New Roman";
-  font-size:24px;
+  font-size:22px;
+}
+
+div.name{
+  font-family:Garamond, Baskerville, "Times New Roman";
+  font-size:34px;
 }
 
 div.list{font-family:Garamond, Baskerville, "Times New Roman";
