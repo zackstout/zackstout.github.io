@@ -9,6 +9,14 @@ h1{font-size:32px;
   font-family:Garamond, Baskerville, "Times New Roman";
 }
 
+.alignl{
+  float: left;
+}
+.alignr{
+  float: right;
+}
+
+
 h2{font-size:22px;
   font-family:Garamond, Baskerville, "Times New Roman";
  text-indent:20%;
