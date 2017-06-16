@@ -40,7 +40,7 @@ div.list{font-family:Garamond, Baskerville, "Times New Roman";
   left:200px;
 } 
 
-div.time{font-family:Garamond, Baskerville, "Times New Roman";
+p.time{font-family:Garamond, Baskerville, "Times New Roman";
   font-size:20px;
   text-align: right;
 }
