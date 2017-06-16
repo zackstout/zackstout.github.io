@@ -14,11 +14,19 @@ h2{font-size:28px;
 
 div.place{
   font-family:Garamond, Baskerville, "Times New roman";
-  font-size:22px;
+  font-size:20px;
 }
 
 div.top{
   font-family:Garamond, Baskerville, "Times New Roman";
   font-size:24px;
+}
+
+div.list{font-family:Garamond, Baskerville, "Times New Roman";
+  font-size:20px;
+}
+
+div.time{font-family:Garamond, Baskerville, "Times New Roman";
+  font-size:20px;
 }
 
