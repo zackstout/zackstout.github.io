@@ -38,8 +38,8 @@ p.name{
 
 div.list{font-family:Garamond, Baskerville, "Times New Roman";
   font-size:20px;
-  position:relative;
-  left:70px;
+  padding-left:150pt;
+  padding-right:300pt;
 } 
 
 .thingtime{font-family:Garamond, Baskerville, "Times New Roman";
