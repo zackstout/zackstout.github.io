@@ -39,15 +39,15 @@ p.name{
 div.list{font-family:Garamond, Baskerville, "Times New Roman";
   font-size:20px;
   position:relative;
-  left:200px;
+  left:70px;
 } 
 
 .thingtime{font-family:Garamond, Baskerville, "Times New Roman";
   font-size:22px;
 }
 .tt{
-  padding-left:50pt;
-  padding-right:50pt;
+  padding-left:100pt;
+  padding-right:200pt;
 }
 
 
