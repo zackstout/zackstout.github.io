@@ -11,14 +11,14 @@ h1{font-size:32px;
 h2{font-size:22px;
   font-family:Garamond, Baskerville, "Times New Roman";
   position:relative;
-  left:250px;
+  left:220px;
 }
 
 h3{
   font-family:Garamond, Baskerville, "Times New Roman";
   font-size:20px;
   position:relative;
-  left:300px;
+  left:220px;
 }
 
 div.top{
@@ -36,7 +36,7 @@ div.name{
 div.list{font-family:Garamond, Baskerville, "Times New Roman";
   font-size:20px;
   position:relative;
-  left:275px;
+  left:255px;
 } 
 
 div.time{font-family:Garamond, Baskerville, "Times New Roman";
