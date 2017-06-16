@@ -12,7 +12,13 @@ h2{font-size:28px;
   font-family:Garamond, Baskerville, "Times New Roman";
 }
 
-.place{
+div.place{
   font-family:Garamond, Baskerville, "Times New roman";
   font-size:22px;
 }
+
+div.top{
+  font-family:Garamond, Baskerville, "Times New Roman";
+  font-size:24px;
+}
+
