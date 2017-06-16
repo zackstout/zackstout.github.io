@@ -8,15 +8,15 @@ h1{font-size:32px;
   font-family:Garamond, Baskerville, "Times New Roman";
 }
 
-h2{font-size:23px;
+h2{font-size:22px;
   font-family:Garamond, Baskerville, "Times New Roman";
   position:relative;
-  left:300px;
+  left:250px;
 }
 
 h3{
   font-family:Garamond, Baskerville, "Times New Roman";
-  font-size:22px;
+  font-size:20px;
   position:relative;
   left:300px;
 }
@@ -30,15 +30,17 @@ div.top{
 div.name{
   font-family:Garamond, Baskerville, "Times New Roman";
   font-size:34px;
+  text-align: right;
 }
 
 div.list{font-family:Garamond, Baskerville, "Times New Roman";
   font-size:20px;
   position:relative;
-  left:325px;
+  left:275px;
 } 
 
 div.time{font-family:Garamond, Baskerville, "Times New Roman";
   font-size:20px;
+  text-align: right;
 }
 
