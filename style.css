@@ -17,16 +17,10 @@ h1{font-size:32px;
 }
 
 
-h2{font-size:22px;
-  font-family:Garamond, Baskerville, "Times New Roman";
- text-indent:20%;
-  width: 80%;
-}
-
 p.place{
   font-family:Garamond, Baskerville, "Times New Roman";
   font-size:20px;
-  text-indent:120px;
+  
 }
 
 p.top{
@@ -52,12 +46,8 @@ div.thingtime{font-family:Garamond, Baskerville, "Times New Roman";
   font-size:22px;
 }
 div.tt{
-  padding-left:150px;
-  padding-right:100px;
+  padding-left:50pt;
+  padding-right:50pt;
 }
 
-p.time{font-family:Garamond, Baskerville, "Times New Roman";
-  font-size:20px;
-  text-align: right;
-}
 
