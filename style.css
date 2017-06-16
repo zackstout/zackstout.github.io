@@ -14,20 +14,20 @@ h2{font-size:22px;
   left:220px;
 }
 
-h3{
+p.place{
   font-family:Garamond, Baskerville, "Times New Roman";
   font-size:20px;
   position:relative;
   left:220px;
 }
 
-div.top{
+p.top{
   font-family:Garamond, Baskerville, "Times New Roman";
   font-size:22px;
   text-align: right;
 }
 
-div.name{
+p.name{
   font-family:Garamond, Baskerville, "Times New Roman";
   font-size:34px;
   text-align: right;
