@@ -50,7 +50,8 @@ div.list{font-family:Garamond, Baskerville, "Times New Roman";
 
 div.thingtime{font-family:Garamond, Baskerville, "Times New Roman";
   font-size:22px;
-  text-indent:120px
+  padding-left:150px;
+  padding-right:100px;
 }
 
 p.time{font-family:Garamond, Baskerville, "Times New Roman";
