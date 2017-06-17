@@ -11,6 +11,7 @@ h1{font-size:32px;
 
 .place{font-size:21px;
   font-family:Garamond, Baskerville, "Times New Roman";
+  margin:-0.5cm 0cm 0cm 0cm;
 
 }
 
@@ -57,6 +58,7 @@ div.list{font-family:Garamond, Baskerville, "Times New Roman";
 
 .thingtime{font-family:Garamond, Baskerville, "Times New Roman";
   font-size:24px;
+  margin: -0.5cm 0cm 0cm 0cm;
 }
 .tt{
   padding-left:100pt;
