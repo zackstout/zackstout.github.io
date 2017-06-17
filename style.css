@@ -47,8 +47,10 @@ h1{font-size:32px;
   display: inline-block;
     font-family:Garamond, Baskerville, "Times New Roman";
   font-size:22px;
-  
 }
+
+.info {
+  text-align:right}
 
 p.top{
   font-family:Garamond, Baskerville, "Times New Roman";
