@@ -31,8 +31,18 @@ h1{font-size:32px;
 .alignl{
   float: left;
 }
+
 .alignr{
   float: right;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.summary .info {
+  display: inline-block;
 }
 
 p.top{
@@ -42,12 +52,12 @@ p.top{
   margin: 0px 0px 10px 0px;
 }
 
-div.top1{
+div.summary{
     font-family:Garamond, Baskerville, "Times New Roman";
   font-size:22px;
 }
 
-div.top2{
+div.info{
     font-family:Garamond, Baskerville, "Times New Roman";
   font-size:22px;
 }
