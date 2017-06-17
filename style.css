@@ -39,10 +39,15 @@ h1{font-size:32px;
 .header {
   display: flex;
   justify-content: space-between;
+  padding-left:50pt;
+  padding-right:50pt;
 }
 
 .summary .info {
   display: inline-block;
+    font-family:Garamond, Baskerville, "Times New Roman";
+  font-size:22px;
+  
 }
 
 p.top{
@@ -50,16 +55,6 @@ p.top{
   font-size:22px;
   text-align: right;
   margin: 0px 0px 10px 0px;
-}
-
-div.summary{
-    font-family:Garamond, Baskerville, "Times New Roman";
-  font-size:22px;
-}
-
-div.info{
-    font-family:Garamond, Baskerville, "Times New Roman";
-  font-size:22px;
 }
 
 p.name{
