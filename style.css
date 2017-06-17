@@ -41,6 +41,16 @@ p.top{
   margin: 0px 0px 10px 0px;
 }
 
+div.top1{
+    font-family:Garamond, Baskerville, "Times New Roman";
+  font-size:22px;
+}
+
+div.top2{
+    font-family:Garamond, Baskerville, "Times New Roman";
+  font-size:22px;
+}
+
 p.name{
   font-family:Garamond, Baskerville, "Times New Roman";
   font-size:34px;
