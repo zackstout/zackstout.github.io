@@ -1,10 +1,7 @@
-
-
 p{
   font-size:21px;
   font-family:Garamond, Baskerville, "Times New Roman";
 }
-
 
 h1{font-size:32px;
   font-family:Garamond, Baskerville, "Times New Roman";
@@ -32,19 +29,19 @@ h1{font-size:32px;
 
 .alignl{
   float: left;
-  margin: 0px 0px 0px 0px;
+  margin: 3px 0px 0px 0px;
 }
 
 .alignr{
   float: right;
-  margin: 0px 0px 0px 0px;
+  margin: 3px 0px 0px 0px;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
-  padding-left:50pt;
-  padding-right:50pt;
+  padding-left:25pt;
+  padding-right:25pt;
 }
 
 .summary .info {
@@ -54,22 +51,23 @@ h1{font-size:32px;
 }
 
 .info {
-  text-align:right}
+  text-align:right;
+}
 
-p.top{
+.top{
   font-family:Garamond, Baskerville, "Times New Roman";
   font-size:22px;
   text-align: right;
   margin: 0px 0px 10px 0px;
 }
 
-p.name{
+.name{
   font-family:Garamond, Baskerville, "Times New Roman";
-  font-size:34px;
+  font-size:40px;
   text-align: right;
 }
 
-div.list{font-family:Garamond, Baskerville, "Times New Roman";
+.list{font-family:Garamond, Baskerville, "Times New Roman";
   font-size:20px;
   padding-left:80pt;
   padding-right:225pt;
@@ -78,8 +76,8 @@ div.list{font-family:Garamond, Baskerville, "Times New Roman";
 
 .thingtime{font-family:Garamond, Baskerville, "Times New Roman";
   font-size:24px;
-  margin: -12px 0px -10px 0px;
 }
+
 .tt{
   padding-left:100pt;
   padding-right:250pt;
