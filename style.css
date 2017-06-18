@@ -1,4 +1,8 @@
 
+*{
+  border:1px solid blue;
+}
+
 p{
   font-size:21px;
   font-family:Garamond, Baskerville, "Times New Roman";
