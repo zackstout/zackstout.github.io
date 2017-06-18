@@ -1,7 +1,4 @@
 
-*{
-  border:1px solid blue;
-}
 
 p{
   font-size:21px;
@@ -35,10 +32,12 @@ h1{font-size:32px;
 
 .alignl{
   float: left;
+  margin: 0px 0px 0px 0px;
 }
 
 .alignr{
   float: right;
+  margin: 0px 0px 0px 0px;
 }
 
 .header {
